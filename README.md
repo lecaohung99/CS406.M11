@@ -1,4 +1,4 @@
-# **Diabetic-Retinopathy-Detection**
+# **SALT IDENTIFICATION IMAGE SEGMENT**
 ## GIỚI THIỆU MÔN HỌC
 <a name="gioithieumonhoc"></a>
 * **Tên môn học**: Xử lý ảnh và ứng dụng
