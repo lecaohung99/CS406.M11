@@ -4,7 +4,7 @@
 * **Tên môn học**: Xử lý ảnh và ứng dụng
 * **Mã môn học**: CS406
 * **Lớp học**: CS406.M11
-* **Năm học**: 2020-2021
+* **Năm học**: 2021-2022
 
 ## GIẢNG VIÊN HƯỚNG DẪN
 <a name="giangvien"></a>
